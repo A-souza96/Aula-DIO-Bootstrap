@@ -1,0 +1,42 @@
+body{
+    font-family: roboto;
+    font-size: 20px;
+}
+
+.navbar{
+    background-color:rgb(255, 236, 212);
+}
+
+.quem-somos{
+background-color:coral;
+color:rgb(68, 66, 66)
+}
+
+.margin{
+    /*
+    padding-bottom: 40px;
+    padding-top: 10pxs;
+  */
+  padding-bottom: 1%;
+    padding-top: 1%;
+    
+}
+
+.parceiros{
+    background-color:rgb(245, 181, 158) ;
+    color:rgb(68, 66, 66);
+}
+
+.bg-footer{
+    background-color:coral;
+    color:rgb(68, 66, 66);
+}
+
+.servicos{
+    background-color:rgb(248, 198, 179);
+    color:rgb(68, 66, 66);
+}
+
+.subtitle{
+    font-size: 90px;
+}
